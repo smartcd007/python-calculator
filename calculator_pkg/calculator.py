@@ -1,4 +1,4 @@
-from art import logo
+from calculator_pkg.art import logo
 
 
 def add(a, b):
